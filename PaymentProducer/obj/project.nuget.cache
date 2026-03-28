@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "aM3cPYuGWbS+u6Ysz8QRuGeLHkW1NGHwCeo5ydiNeraPgoPjVS03VU/LHn2kNjB13Bgu+38I4yJuhFdYmNgP9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OWNER\\Desktop\\C#2025\\AsynchronousComWithKafka\\Payment\\PaymentProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OWNER\\.nuget\\packages\\confluent.kafka\\2.13.2\\confluent.kafka.2.13.2.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\librdkafka.redist\\2.13.2\\librdkafka.redist.2.13.2.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

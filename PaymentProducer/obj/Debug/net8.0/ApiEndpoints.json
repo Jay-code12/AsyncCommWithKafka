@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PaymentProducer.Controllers.PaymentController",
+    "Method": "Payment",
+    "RelativePath": "api/Payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payment",
+        "Type": "PaymentProducer.Models.Payment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

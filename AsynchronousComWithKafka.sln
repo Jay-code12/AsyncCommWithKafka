@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransHistoryConsumer", "AsynchronousComWithKafka\TransHistoryConsumer.csproj", "{D114BD0C-330C-4804-BD2C-045AF2F3DEF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransHistoryConsumer", "TransHistoryConsumer\TransHistoryConsumer.csproj", "{D114BD0C-330C-4804-BD2C-045AF2F3DEF2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentProducer", "Payment\PaymentProducer.csproj", "{98D0BF09-69CB-4C3F-8A73-779A79C92301}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentProducer", "PaymentProducer\PaymentProducer.csproj", "{98D0BF09-69CB-4C3F-8A73-779A79C92301}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

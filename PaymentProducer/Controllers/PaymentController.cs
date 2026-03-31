@@ -1,7 +1,6 @@
 ﻿using Confluent.Kafka;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
-using PaymentProducer;
 using PaymentProducer.Models;
 using System.Text.Json;
 
@@ -58,7 +57,7 @@ namespace PaymentProducer.Controllers
 
                 //Send message to Kafka topic
                 using var producer = new ProducerBuilder<Null, string>(producerConfig).Build();
-                var result = await producer.ProduceAsync("paymentSuccessful", message);
+                var result = await producer.ProduceAsync(_kafkaIoption.TopicName, message);
 
                 _logger.LogInformation("Message delivered to Topic: {topic}, Partition: {partition}, Offset: {offset}", result.Topic, result.Partition, result.Offset);
 

@@ -628,11 +628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OWNER\\Desktop\\C#2025\\AsynchronousComWithKafka\\Payment\\PaymentProducer.csproj",
+      "projectUniqueName": "C:\\Users\\OWNER\\Desktop\\C#2025\\AsynchronousComWithKafka\\PaymentProducer\\PaymentProducer.csproj",
       "projectName": "PaymentProducer",
-      "projectPath": "C:\\Users\\OWNER\\Desktop\\C#2025\\AsynchronousComWithKafka\\Payment\\PaymentProducer.csproj",
+      "projectPath": "C:\\Users\\OWNER\\Desktop\\C#2025\\AsynchronousComWithKafka\\PaymentProducer\\PaymentProducer.csproj",
       "packagesPath": "C:\\Users\\OWNER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OWNER\\Desktop\\C#2025\\AsynchronousComWithKafka\\Payment\\obj\\",
+      "outputPath": "C:\\Users\\OWNER\\Desktop\\C#2025\\AsynchronousComWithKafka\\PaymentProducer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

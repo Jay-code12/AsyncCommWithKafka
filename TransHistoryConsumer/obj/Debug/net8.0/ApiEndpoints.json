@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TransHistoryConsumer.Controllers.HistoryController",
+    "Method": "PaymentHistory",
+    "RelativePath": "api/History",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

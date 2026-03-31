@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aM3cPYuGWbS+u6Ysz8QRuGeLHkW1NGHwCeo5ydiNeraPgoPjVS03VU/LHn2kNjB13Bgu+38I4yJuhFdYmNgP9Q==",
+  "dgSpecHash": "bcP+mk+nAX03Y52sfxcoknxHYarFzC0G65Y0GtnzTtTsPl4itbaNeIc7tKWuaULZ521gkY7cCBPsZT38i7sEwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OWNER\\Desktop\\C#2025\\AsynchronousComWithKafka\\Payment\\PaymentProducer.csproj",
+  "projectFilePath": "C:\\Users\\OWNER\\Desktop\\C#2025\\AsynchronousComWithKafka\\PaymentProducer\\PaymentProducer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OWNER\\.nuget\\packages\\confluent.kafka\\2.13.2\\confluent.kafka.2.13.2.nupkg.sha512",
     "C:\\Users\\OWNER\\.nuget\\packages\\librdkafka.redist\\2.13.2\\librdkafka.redist.2.13.2.nupkg.sha512",
